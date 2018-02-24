@@ -1,2 +1,2 @@
-# other74.github.io
+# https://other74.github.io/
 create
